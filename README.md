@@ -17,6 +17,7 @@ btw，因每天时常进行书籍的整理与归纳，还有负责打扫卫生�
 
 以下是我搜集高效，方便快捷的VPN线路app客户端，可供学习使用，安卓的可以直接在我库里进行下载使用，iOS的需要国外appID，进行下载
 
+## android和iOS客户端下载
 
 安卓下载：  https://github.com/Shadowsocks-release/Shadowsocks/blob/master/Shadowsocks_release.apk
 <br>
