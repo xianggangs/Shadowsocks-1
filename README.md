@@ -19,6 +19,7 @@ btw，因每天时常进行书籍的整理与归纳，还有负责打扫卫生�
 
 
 安卓下载：  https://github.com/Shadowsocks-release/Shadowsocks/blob/master/Shadowsocks_release.apk
+<br>
 iOS下载：   https://itunes.apple.com/us/app/blueskyvpn/id1427257535?mt=8
 
 
