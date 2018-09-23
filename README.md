@@ -15,8 +15,10 @@
 
 btw，因每天时常进行书籍的整理与归纳，还有负责打扫卫生可能较忙，不能及时地回复邮件，为此表示歉意，还请理解。
 
+以下是我搜集高效，方便快捷的VPN线路app客户端，可供学习使用，安卓的可以直接在我库里进行下载使用，iOS的需要国外appID，进行下载
 
 
+安卓下载：  https://github.com/Shadowsocks-release/Shadowsocks/blob/master/Shadowsocks_release.apk
+iOS下载：   https://itunes.apple.com/us/app/blueskyvpn/id1427257535?mt=8
 
-安卓下载  ：https://github.com/Shadowsocks-release/Shadowsocks/blob/master/Shadowsocks_release.apk
 
