@@ -1,4 +1,4 @@
-# Shadowsocks
+ Shadowsocks
 <h1 align="center"> 免责声明 </h1>
 
 
@@ -15,12 +15,12 @@
 
 btw，因每天时常进行书籍的整理与归纳，还有负责打扫卫生可能较忙，不能及时地回复邮件，为此表示歉意，还请理解。
 
-以下是我搜集高效，方便快捷的VPN线路app客户端，可供学习使用，安卓的可以直接在我库里进行下载使用，iOS的需要国外appID，进行下载
+以下是我搜集高效，方便快捷的VPN线路app客户端，可供学习使用，安卓的可以直接在我库里进行下载使用，iOS的点击链接，进行下载
 
 ## android和iOS客户端下载
 
 安卓下载：  在此github库里的apk就是
 <br>
-iOS下载：   https://itunes.apple.com/us/app/blueskyvpn/id1427257535?mt=8
-
-
+iOS下载：  https://testflight.apple.com/join/oD2hW3B9
+<br>
+Telegram: https://t.me/MagicNucleusPro
